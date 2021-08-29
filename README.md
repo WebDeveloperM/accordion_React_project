@@ -1,20 +1,6 @@
-#### Idea
+--------Instructions--------
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
-
-![](./idea.png);
-
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+1. Download project
+2. Open project with code_Editor(Vs Code, Sublime Text ...)
+3. npm install
+4. npm start
